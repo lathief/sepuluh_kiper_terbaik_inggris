@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kiper Terbaik Inggris</string>
+    <string name="kiper_name">Nama Kiper</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="this_is_moveactivity">Alhamdulillah Pindah</string>
+    <string name="data_received">Data kiper</string>
+    <string name="follow">Instagram</string>
+    <string name="myname">Muhammad Mukhtarul Lathief</string>
+    <string name="myemail">latifmukhtarul@gmail.com</string>
+</resources>
